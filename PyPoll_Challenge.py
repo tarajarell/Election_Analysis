@@ -47,7 +47,7 @@ with open(file_to_load) as election_data:
         candidate_name = row[2]
 
         # 3: Extract the county name from each row.
-        county_name = row[2]
+        county_name = row[1]
 
         # If the candidate does not match any existing candidate add it to
         # the candidate list
@@ -104,10 +104,11 @@ with open(file_to_save, "w") as txt_file:
          # 6e: Save the county votes to a text file.
 
          # 6f: Write a decision statement to determine the winning county and get its vote count.
-        
+        if (cvotes > county_votes[county_name]):
+            county_turnout = county_name
 
     # 7: Print the county with the largest turnout to the terminal.
-
+    print(county_name)
 
     # 8: Save the county with the largest turnout to a text file.
 
