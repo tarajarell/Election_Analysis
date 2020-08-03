@@ -37,7 +37,7 @@ In addition to the Project Overview, this Challenge sought to complete the follo
 
 ## Challenge Summary
 The analysis of the election by county show that:
-- Voter turnout for Jefferson county was 38,855 (10.5%).
-- Voter turnout for Denver county was 306,055 (82.8%).
-- Voter turnout for Arapahoe county was 24,801 (6.7%).
-- The largest county to turnout to vote was Denver. 
+- Jefferson county had 10.5% of the votes and 38,855 individual votes.
+- Denver county had 82.8% of the votes and 306,055 individual votes.
+- Arapahoe county had 6.7% of the votes and 24,801 individual votes.
+- The county with the largest number of votes was Denver. 
