@@ -41,3 +41,4 @@ The analysis of the election by county show that:
 - Denver county had 82.8% of the votes and 306,055 individual votes.
 - Arapahoe county had 6.7% of the votes and 24,801 individual votes.
 - The county with the largest number of votes was Denver. 
+(picture)[https://github.com/tarajarell/Election_Analysis/blob/master/Resources/Election_Analysis_Results.jpg]
