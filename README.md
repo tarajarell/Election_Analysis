@@ -33,10 +33,9 @@ The analysis of the election show that:
 
 ### Additional uses
 This script is useful for future elections to provide analysis on, in the event of additional data being provided. 
-1. This code could be modified to run an analysis on voters by city rather than counties.
-2. This script could be modified to provide the 
 
+1. This code could be modified to run an analysis on voters by city rather than counties.
 ![Code_Counties.jpg]( https://github.com/tarajarell/Election_Analysis/blob/master/Resources/Code_Counties.jpg)
 ![Code_Shells.jpg]( https://github.com/tarajarell/Election_Analysis/blob/master/Resources/Code_Shells.jpg)
 
-
+If data for cities rather than counties is provided, this script can be modified to code for an analysis of voter turnout by city.
