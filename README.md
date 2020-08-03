@@ -29,5 +29,7 @@ The analysis of the election show that:
   - Diana Degette, who received 73.8% of the votes and 272,892 individual votes.
 
 
-
 ![Election_Analysis_Results.jpg](https://github.com/tarajarell/Election_Analysis/blob/master/Resources/Election_Analysis_Results.jpg)
+
+
+This script is useful in future elections to provide analysis on votes by counties and candidates. In particular, 
