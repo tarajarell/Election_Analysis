@@ -31,5 +31,8 @@ The analysis of the election show that:
 
 ![Election_Analysis_Results.jpg](https://github.com/tarajarell/Election_Analysis/blob/master/Resources/Election_Analysis_Results.jpg)
 
+This script is useful for future elections to provide analysis on, in the event of additional data being provided. This code could be modified to run an analysis on voters by city rather than counties. It also can be utilized to run comparisons of additional counties (such as Adams county, which borders all of the counties in this current audit.
 
-This script is useful in future elections to provide analysis on votes by counties and candidates. In particular, 
+### Modify the script
+
+
