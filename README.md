@@ -32,10 +32,12 @@ The analysis of the election show that:
 ![Election_Analysis_Results.jpg](https://github.com/tarajarell/Election_Analysis/blob/master/Resources/Election_Analysis_Results.jpg)
 
 ### Additional uses
-This script is useful for future elections to provide analysis on, in the event of additional data being provided. 
+A few ways the script could be changed in future the event of use in future election analyses includes:
+- Refactoring the code to improve the design and other non-functional attributes of the script.
+- With or without refactoring, if this code is utilized again the specific path to the csv files being read and written (as well as the names of the files) will need to be changed to match those specific to the new analysis.
 
-1. This code could be modified to run an analysis on voters by city rather than counties.
 ![Code_Counties.jpg]( https://github.com/tarajarell/Election_Analysis/blob/master/Resources/Code_Counties.jpg)
 ![Code_Shells.jpg]( https://github.com/tarajarell/Election_Analysis/blob/master/Resources/Code_Shells.jpg)
 
-If data for cities rather than counties is provided, this script can be modified to code for an analysis of voter turnout by city.
+
+
