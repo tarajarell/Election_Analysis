@@ -36,8 +36,8 @@ A few ways the script could be changed in future the event of use in future elec
 - Refactoring the code to improve the design and other non-functional attributes of the script.
 - With or without refactoring, if this code is utilized again the specific path to the csv files being read and written (as well as the names of the files) will need to be changed to match those specific to the new analysis.
 
-![Code_Counties.jpg]( https://github.com/tarajarell/Election_Analysis/blob/master/Resources/Code_Counties.jpg)
-![Code_Shells.jpg]( https://github.com/tarajarell/Election_Analysis/blob/master/Resources/Code_Shells.jpg)
+![CSV_load_read_write.jpg]( https://github.com/tarajarell/Election_Analysis/blob/master/Resources/Code_Counties.jpg)
+
 
 
 
