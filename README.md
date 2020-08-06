@@ -10,7 +10,7 @@ A Colarado Board of Elections employee is seeking the following information from
 5. Determine the winner of the election, their vote count, and their percentage of the total votes. 
 
 ## Resources
-- Data Source: election_results.csv
+Data Source: election_results.csv
 
 Software: Python 3.6.1, Visual Studio Code, 1.38.1
 
