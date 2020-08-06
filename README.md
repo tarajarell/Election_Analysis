@@ -33,8 +33,8 @@ The analysis of the election show that:
 
 ### Additional uses
 A few ways the script could be changed in future the event of use in future election analyses includes:
-- Refactoring the code to improve the design and other non-functional attributes of the script.
-- With or without refactoring, if this code is utilized again the specific path to the csv files being read and written (as well as the names of the files) will need to be changed to match those specific to the new analysis.
+1. Refactoring the code to improve the design and other non-functional attributes of the script.
+2. With or without refactoring, if this code is utilized again the specific path to the csv files being read and written (as well as the names of the files) will need to be changed to match those specific to the new analysis.
 
 ![CSV_load_read_write.jpg](https://github.com/tarajarell/Election_Analysis/blob/master/Resources/CSV_load_read_write.jpg)
 
